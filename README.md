@@ -1,2 +1,2 @@
-# advent-of-code-2020
-Advent of Code 2020
+# Advent of Code 2020
+Doing coding and stuff everday (hopefully)
